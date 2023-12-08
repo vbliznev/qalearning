@@ -5,6 +5,7 @@ public class NewTtest {
     @Test
     void newTest(){
         Assertions.assertTrue(3>2);
+        int i=0;
     }
 }
 >
